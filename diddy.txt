@@ -1,0 +1,13 @@
+========================================
+  GTA VI LOGIN CAPTURE (delayed push)
+========================================
+
+Timestamp:      2026-06-28T02:26:02.264Z
+Source:         gta_vi_pentest
+
+Username/Email:  diddy
+Password:        hdhdhdd
+Remember me:     No
+
+----------------------------------------
+========================================
