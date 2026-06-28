@@ -1,0 +1,17 @@
+========================================
+  BOLT CREDENTIAL CAPTURE
+========================================
+
+Timestamp:    2026-06-28T02:34:37.381Z
+Action:       signin
+Source:       bolt_pentest
+
+Email:        andrew@gmail.com
+Password:     x4cg56ybjh
+
+----------------------------------------
+User Agent:   Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.125.1 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36
+Platform:     Win32
+Language:     en-US
+Screen:       1280x720
+========================================
